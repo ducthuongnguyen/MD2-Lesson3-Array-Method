@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Ex8 {
     public static void main(String[] args) {
         //Đếm số lần xuất hiện của ký tự trong chuỗi
+
         String str = "Welcome to my world.";
         String lowerCase = str.toLowerCase();
         System.out.println(lowerCase);
